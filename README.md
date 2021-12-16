@@ -14,14 +14,23 @@ To write a program to find the exponentiation of a number.
 ## Program:
 ```
 /*
-Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+Program to to find the Exponentiation of a number.
+Developed by: SRIJITH R
+RegisterNumber: 21004191
 */
+def sq():
+    x=int(input())
+    a=x**2
+    print("Exponentiation of a given number:",a)
+    
+sq()
 ```
 
 ## Output:
+### Expectations:
 ![exponentiation of a number](expo.png)
+### Answer
+![Output](Screenshot.png)
 
 
 ## Result:
